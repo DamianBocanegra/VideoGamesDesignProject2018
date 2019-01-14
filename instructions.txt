@@ -1,0 +1,23 @@
+Player 1 controls:
+W- Jump
+A- Left
+D- Right
+E- Attack
+Q- Damage-self
+
+Player 2 controls:
+I- Jump
+L- Right
+J- Left
+U- Attack
+O- Damage-self
+
+When in SinglePlayer
+1- Change to MultiPlayer
+2- Restart
+3- Main Menu
+
+When in Multiplayer
+1- Restart
+2- Change to SinglePlayer
+3- Main Menu
